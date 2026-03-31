@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+textarea {
+    width: 80%;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+    font-family: monospace;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.message {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.error {
+    background-color: #ffcccc;
+    color: red;
+}
+
+.warning {
+    background-color: #ffe0b3;
+    color: orange;
+}
+
+.suggestion {
+    background-color: #cce5ff;
+    color: blue;
+}
+
+.info {
+    background-color: #ccffcc;
+    color: green;
+}
