@@ -1,0 +1,11 @@
+{
+  "name": "smart-code-analyzer",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node tests/test-compiler.js",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}

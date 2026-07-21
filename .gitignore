@@ -1,0 +1,14 @@
+# Dependencies (npm install ke baad banti hai)
+node_modules/
+
+# IDE & Editor Settings (Personal config)
+.vscode/
+.idea/
+
+# OS Generated Files (Mac/Windows junk)
+.DS_Store
+Thumbs.db
+
+# Environment & Logs (Agar baad me .env use karo)
+.env
+*.log
